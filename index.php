@@ -1,3 +1,3 @@
 <?php
- header( 'Location: http://www.facebook.com/23eadd' ) ;
+ echo "editted by github" ;
 ?>
